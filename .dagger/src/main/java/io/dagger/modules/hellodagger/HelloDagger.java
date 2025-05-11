@@ -9,6 +9,7 @@ import io.dagger.client.DaggerQueryException;
 import io.dagger.client.Directory;
 import io.dagger.client.Env;
 import io.dagger.client.File;
+import io.dagger.client.GithubIssue;
 import io.dagger.client.LLM;
 import io.dagger.client.Secret;
 import io.dagger.client.Workspace;
