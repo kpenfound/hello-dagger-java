@@ -10,6 +10,7 @@ import io.dagger.client.Directory;
 import io.dagger.client.Env;
 import io.dagger.client.File;
 import io.dagger.client.LLM;
+import io.dagger.client.Secret;
 import io.dagger.client.Workspace;
 import io.dagger.module.annotation.DefaultPath;
 import io.dagger.module.annotation.Function;
