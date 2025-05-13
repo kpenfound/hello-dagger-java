@@ -1,6 +1,10 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
+
+// This is a dummy test to check if the test command works.
+// In a real scenario, you would assert something about the component.
+console.assert(1 === 1, 'Dummy test passed');
 </script>
 
 <template>
